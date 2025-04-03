@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  quantity: 1
+  unit: MyString
+  expiration_date: 2025-03-31
+  category: one
+  notes: MyText
+  flavor: MyString
+
+two:
+  name: MyString
+  quantity: 1
+  unit: MyString
+  expiration_date: 2025-03-31
+  category: two
+  notes: MyText
+  flavor: MyString
